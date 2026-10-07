@@ -1,0 +1,29 @@
+{
+    "project_info": {
+        "project_number": "246858954687",
+        "project_id": "linka-c11cb",
+        "storage_bucket": "linka-c11cb.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:246858954687:android:87b317c3939cc5d608530a",
+                "android_client_info": {
+                    "package_name": "com.linka.chat"
+                }
+            },
+            "oauth_client": [],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyDtLZevn2bVbWHqOP3vsfXNzXrWQnE3Mkw"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": []
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
